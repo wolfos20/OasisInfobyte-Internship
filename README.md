@@ -1,4 +1,4 @@
-# Oib-Sip-Internship
+# Internship
 
 Project Overview
 
