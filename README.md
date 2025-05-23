@@ -15,19 +15,6 @@ PetalWidthCm: Petal width in centimeters.
 Species: The species of the Iris flower (Iris-setosa, Iris-versicolor, Iris-virginica)
 
 
-
-Task 2 : Unemployment analysis with Python
-This project aims to analyze unemployment data using Python to uncover trends, patterns, and insights. By utilizing data analysis and visualization techniques, we can better understand the factors affecting unemployment rates and how they vary across different regions and demographics.
-
-Dataset Description
-The dataset used for this analysis typically includes the following features:
-
-Date: The time period for the unemployment data.
-Region: The geographical area (e.g., country, state, city) the data pertains to.
-Unemployment Rate: The percentage of the labor force that is unemployed.
-Other Demographic Data: Information such as age, gender, industry, education level, etc.
-
-
 Task-5: SALES PREDICTION 
 This project aims to predict sales using machine learning techniques. By analyzing historical sales data, we can build models that forecast future sales, helping businesses make informed decisions. The project covers data preprocessing, exploratory data analysis, model building, and evaluation.
 
